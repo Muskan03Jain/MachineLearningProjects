@@ -1,4 +1,3 @@
----
 
 # Heart Disease Prediction Project
 
@@ -97,6 +96,4 @@ streamlit run streamlit.py
 ```
 
 This will launch a web app where users can input patient data to predict the risk of heart disease.
-
----
 
