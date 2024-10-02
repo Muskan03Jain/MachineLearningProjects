@@ -113,7 +113,7 @@ machineLearningProjects/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/machineLearningProjects.git
+   git clone [https://github.com/Muskan03Jain/MachineLearningProjects.git]
    ```
 
 2. Navigate to each project directory and run the Streamlit app:
